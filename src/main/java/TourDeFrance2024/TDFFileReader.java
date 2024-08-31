@@ -1,4 +1,4 @@
-package Euro2024DKMaalscorer;
+package TourDeFrance2024;
 
 import java.io.File;
 import java.io.FileNotFoundException;
